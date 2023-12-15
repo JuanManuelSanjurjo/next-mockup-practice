@@ -1,4 +1,9 @@
+import Link from 'next/link'
 import React from 'react'
+
+export const metadata = {
+  title : "Tienda"
+}
 
 function Tiendalayout({children}) {
   return (
@@ -6,8 +11,8 @@ function Tiendalayout({children}) {
         <nav>
             <h3>Seccion tienda</h3>
             <ul>
-                <li>item 1</li>
-                <li>item 2</li>
+                <Link href={"/tienda/botines"}>Botines</Link>
+                <Link href={"/"}>Home</Link>
             </ul>
         </nav>
         {children}
