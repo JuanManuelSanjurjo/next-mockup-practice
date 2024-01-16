@@ -1,1 +1,1 @@
-### Simple Next Js project for practicing layout and app router faundations
+### Simple Next Js project for practicing route handlers, layout and app router faundations 
