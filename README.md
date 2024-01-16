@@ -13,7 +13,6 @@ pnpm dev
 # or
 bun dev
 ```
-![asd](https://github.com/JuanManuelSanjurjo/next-mockup-practice/assets/57844658/100cd6fa-b62b-4e22-9bf5-41db5ff2c13c)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
